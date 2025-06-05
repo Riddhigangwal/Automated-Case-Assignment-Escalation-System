@@ -51,7 +51,7 @@ This Salesforce project implements an intelligent case management system that au
 ### Quick Start
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/automated-case-assignment-escalation.git
+   git clone https://github.com/RiddhiGangwal/automated-case-assignment-escalation.git
    cd automated-case-assignment-escalation
    ```
 
@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or feature requests:
 
-- 📧 Email: support@yourcompany.com
+- 📧 Email: RiddhiGangwal19@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/RiddhiGangwal/automated-case-assignment-escalation/issues)
 - 📖 Documentation: [Wiki](https://github.com/RiddhiGangwal/automated-case-assignment-escalation/wiki)
 - 💬 Community: [Salesforce Trailblazer Community](https://trailblazercommunity.salesforce.com)
