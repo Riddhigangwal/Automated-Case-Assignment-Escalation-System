@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "AutomatedCaseAssignment",
+      "versionName": "ver 2.1",
+      "versionNumber": "2.1.0.NEXT"
+    }
+  ],
+  "name": "Automated Case Assignment & Escalation System",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0",
+  "packageAliases": {
+    "AutomatedCaseAssignment": "0Ho..."
+  }
+}
+
