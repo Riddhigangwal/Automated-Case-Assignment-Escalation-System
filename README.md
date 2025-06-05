@@ -235,4 +235,3 @@ For questions, issues, or feature requests:
 **Built with ❤️ for the Salesforce community**
 
 *This system has helped organizations reduce case resolution time by 40% and improve customer satisfaction scores by 25%.*
-
